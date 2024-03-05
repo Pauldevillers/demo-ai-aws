@@ -4,7 +4,7 @@ Welcome to my AI Solutions repository for AWS. This repository contains a collec
 
 ## Table of Contents
 
-1. [Claude 3 experiment on Amazon Bedrock](./claude-3-experiment/claud-3-experiment.ipynb)
+1. [Claude 3 experiment on Amazon Bedrock](/claude-3-experiment/claude3-experiment.ipynb)
 
 ## Description
 
