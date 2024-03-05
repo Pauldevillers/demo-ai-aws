@@ -4,7 +4,7 @@ Welcome to my AI Solutions repository for AWS. This repository contains a collec
 
 ## Table of Contents
 
-1. [Claude 3 experiment on Amazon Bedrock](/claude-3-experiment/claude3-experiment.ipynb)
+1. [Claude 3 on Amazon Bedrock - Explore 5 vision and text use case](/claude-3-experiment/claude3-experiment.ipynb)
 
 ## Description
 
@@ -14,4 +14,5 @@ Explore a collection of AI solutions designed to leverage the power and scalabil
 
 - AWS Account
 - Python Environment
+- Bedrock IAM permissions
 
